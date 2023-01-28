@@ -3,7 +3,7 @@
 ## Description
 This optimization for the Horiseon website replaces "div" tags with semantic tags in order to create a more accessible and user-friendly site, while also maintaining proper functionality, as well as comments to the CSS file so other developers may know the functions of the code at first glance
 
-![Screenshot of website](https://github.com/Liz-Nino64/Horiseon-Code-Optimization/main/127.0.0.1_5500_Develop_index.html (1).png?raw=true)
+![Screenshot of Website](assets/images/README-Screenshot.png)
 
 ## Installation
 This webpage is accessible at https://liz-nino64.github.io/Horiseon-Code-Optimization/
